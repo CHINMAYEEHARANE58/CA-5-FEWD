@@ -1,0 +1,51 @@
+.form {
+    background-color: #f4f4f4;
+    width: 400px;
+    padding: 20px;
+    margin: 10vh auto 10vh auto;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px 1px rgb(161, 161, 161);
+}
+
+h1{
+    font-size: 20px;
+    margin-bottom: 4vh;
+}
+
+.inputBox {
+    margin-bottom: 15px;
+}
+
+input {
+    width: 50vh;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 8px 0 8px 0;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+.submit{
+    width: 28vh;
+    height: 7vh;
+    background-color: rgb(74, 196, 43);
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.err {
+    color: red;
+    margin-top: 4px;
+    font-size: 15px;
+}
+  
+  
+.successMessage {
+    color: rgb(38, 222, 38);
+    font-size: 25px;
+    margin-top: 10px;
+    background-color: rgba(38, 222, 38, 0.269);
+
+}
