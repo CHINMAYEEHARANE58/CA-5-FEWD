@@ -40,9 +40,12 @@
 
 .title{
     font-size: 14px;
+    word-spacing: 1px;
+    line-height: 18px;
 }
 
 .ratings{
     font-size: 12px;
     color: rgb(94, 94, 94);
+    word-spacing: 1px;
 }

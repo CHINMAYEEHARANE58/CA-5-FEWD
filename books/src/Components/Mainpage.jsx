@@ -48,7 +48,7 @@ const Mainpage = () => {
                     <div key={index} className="book">
                         <img className="bookCover" src={book.imageLinks.smallThumbnail} alt={book.title}/>
                         <h2 className="title">{book.title}</h2>
-                        <h3 className='ratings'>Ratings: {book.averageRating} Free</h3>
+                        <h3 className='ratings'>Ratings: {book.averageRating} ⭐ Free</h3>
                     </div>
                 ))}
             </div>
